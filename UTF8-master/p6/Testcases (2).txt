@@ -1,0 +1,150 @@
+1. Test7
+
+Lu: 288
+
+2. Test8 	
+
+Get: way carriage immediately
+Lu: 288
+
+3. Test9
+
+Get: Here is an example of how we may test your code. “%” is my shell prompt.
+Checking for appending feature in this assignment
+Ll: 93
+
+4. Test10
+
+Get: p
+
+5. Test11
+
+Throws: U::get: invalid starting index-1
+
+6. Test12
+
+Throws: U::get: invalid ending index8828637
+
+7. Test13
+
+Throws: U::readfile: can’t open okay.doc
+
+8. Test14
+
+Throws: P::propfile: can’t open UnicodeData.txt
+
+9. Test15
+
+Size U: 54
+Size P: 29
+Codepoint: 2346
+Unexpected error: U::codepoint: bad index -1
+
+10. Test16
+
+Nirvana: 0
+Property: Cf
+Property: Co
+Property: Lo
+Property: Mn
+Throws: U::readfile: can’t open something
+
+11. Test17
+
+Testing destructor for U
+Testing destructor for P
+
+12. Test18
+
+Testing for constant argument in readfile
+
+13. Test19
+
+Size of U before: 25
+Size of P before: 29
+Count: 0
+get: st
+Size of U after: 0
+Size of P after: 0
+
+
+
+14. Test20
+
+Testing constant argument in copy constructor in U
+Testing constant argument in assignment operator in U
+Testing constant argument in copy constructor in P
+Testing constant argument in assignment operator in P
+
+
+15. Test21
+
+Throws: Invalid initial UTF-8 byte encountered
+
+16. Test22
+
+Size 73
+Get(): Here is an example of how we may test your code. “%” is my shell prompt.
+
+Get(4):
+Get(3, 5): e
+Codepoint 32
+Size 29
+Count 0
+Property: Cc
+Property: Cf
+Property: Co
+Property: Cs
+Property: Ll
+Property: Lm
+Property: Lo
+Property: Lt
+Property: Lu
+Property: Mc
+Property: Me
+Property: Mn
+Property: Nd
+Property: Nl
+Property: No
+Property: Pc
+Property: Pd
+Property: Pe
+Property: Pf
+Property: Pi
+Property: Po
+Property: Ps
+Property: Sc
+Property: Sk
+Property: Sm
+Property: So
+Property: Zl
+Property: Zp
+Property: Zs
+Empty 0
+Empty 0
+
+17. Test23
+
+Throws: U::continuatinon: EOF where continuation byte expected
+
+18. Test24
+
+Size of U before: 22
+Ll before: 13
+Size of U after: 22
+Ll after: 13
+Cc: 0
+
+
+19. Test25
+
+Success
+
+20. Test26
+
+Good: caught error as expected
+
+
+ 
+
+
