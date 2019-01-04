@@ -1,0 +1,134 @@
+72.238.22.224
+-- NormHist --
+$ ./PA6 correctfiles.txt 7 1
+class1_00003.pgm 
+class1_00004.pgm 
+class2_01521.pgm 
+class3_00263.pgm 
+class3_00264.pgm 
+class4_00379.pgm 
+class4_00380.pgm 
+.
+$ ./PA6 correctfiles.txt 6 1
+class1_00004.pgm class1_00003.pgm 
+class2_01521.pgm 
+class3_00263.pgm 
+class3_00264.pgm 
+class4_00379.pgm 
+class4_00380.pgm 
+.
+$ ./PA6 correctfiles.txt 5 1
+class1_00004.pgm class1_00003.pgm 
+class2_01521.pgm 
+class3_00263.pgm 
+class3_00264.pgm 
+class4_00380.pgm class4_00379.pgm 
+.
+$ ./PA6 correctfiles.txt 4 1
+class1_00004.pgm class1_00003.pgm 
+class2_01521.pgm 
+class3_00264.pgm class3_00263.pgm 
+class4_00380.pgm class4_00379.pgm 
+.
+$ ./PA6 correctfiles.txt 3 1
+class1_00004.pgm class1_00003.pgm 
+class3_00264.pgm class3_00263.pgm class2_01521.pgm 
+class4_00380.pgm class4_00379.pgm 
+.
+$ ./PA6 correctfiles.txt 2 1
+class3_00264.pgm class3_00263.pgm class2_01521.pgm 
+class4_00380.pgm class4_00379.pgm class1_00004.pgm class1_00003.pgm 
+.
+$ ./PA6 correctfiles.txt 1 1
+class4_00380.pgm class4_00379.pgm class1_00004.pgm class1_00003.pgm class3_00264.pgm class3_00263.pgm class2_01521.pgm 
+ 
+ 
+ 
+-- NormHist4 --
+$ ./PA6 correctfiles.txt 7 2
+class1_00003.pgm 
+class1_00004.pgm 
+class2_01521.pgm 
+class3_00263.pgm 
+class3_00264.pgm 
+class4_00379.pgm 
+class4_00380.pgm 
+.
+$ ./PA6 correctfiles.txt 6 2
+class1_00004.pgm class1_00003.pgm 
+class2_01521.pgm 
+class3_00263.pgm 
+class3_00264.pgm 
+class4_00379.pgm 
+class4_00380.pgm 
+.
+$ ./PA6 correctfiles.txt 5 2
+class1_00004.pgm class1_00003.pgm 
+class2_01521.pgm 
+class3_00263.pgm 
+class3_00264.pgm 
+class4_00380.pgm class4_00379.pgm 
+.
+$ ./PA6 correctfiles.txt 4 2
+class1_00004.pgm class1_00003.pgm 
+class2_01521.pgm 
+class3_00264.pgm class3_00263.pgm 
+class4_00380.pgm class4_00379.pgm 
+.
+$ ./PA6 correctfiles.txt 3 2
+class1_00004.pgm class1_00003.pgm 
+class2_01521.pgm 
+class4_00380.pgm class4_00379.pgm class3_00264.pgm class3_00263.pgm 
+.
+$ ./PA6 correctfiles.txt 2 2
+class2_01521.pgm 
+class4_00380.pgm class4_00379.pgm class3_00264.pgm class3_00263.pgm class1_00004.pgm class1_00003.pgm 
+.
+$ ./PA6 correctfiles.txt 1 2
+class4_00380.pgm class4_00379.pgm class3_00264.pgm class3_00263.pgm class1_00004.pgm class1_00003.pgm class2_01521.pgm 
+ 
+ 
+ 
+-- Pixels --
+$ ./PA6 correctfiles.txt 7 3
+class1_00003.pgm 
+class1_00004.pgm 
+class2_01521.pgm 
+class3_00263.pgm 
+class3_00264.pgm 
+class4_00379.pgm 
+class4_00380.pgm 
+.
+$ ./PA6 correctfiles.txt 6 3
+class1_00003.pgm 
+class1_00004.pgm 
+class2_01521.pgm 
+class3_00263.pgm 
+class3_00264.pgm 
+class4_00380.pgm class4_00379.pgm 
+.
+$ ./PA6 correctfiles.txt 5 3
+class1_00004.pgm class1_00003.pgm 
+class2_01521.pgm 
+class3_00263.pgm 
+class3_00264.pgm 
+class4_00380.pgm class4_00379.pgm 
+.
+$ ./PA6 correctfiles.txt 4 3
+class1_00004.pgm class1_00003.pgm 
+class2_01521.pgm 
+class3_00264.pgm class3_00263.pgm 
+class4_00380.pgm class4_00379.pgm 
+.
+$ ./PA6 correctfiles.txt 3 3
+class2_01521.pgm 
+class3_00264.pgm class3_00263.pgm 
+class4_00380.pgm class4_00379.pgm class1_00004.pgm class1_00003.pgm 
+.
+$ ./PA6 correctfiles.txt 2 3
+class3_00264.pgm class3_00263.pgm 
+class4_00380.pgm class4_00379.pgm class1_00004.pgm class1_00003.pgm class2_01521.pgm 
+.
+$ ./PA6 correctfiles.txt 1 3
+class4_00380.pgm class4_00379.pgm class1_00004.pgm class1_00003.pgm class2_01521.pgm class3_00264.pgm class3_00263.pgm 
+ 
